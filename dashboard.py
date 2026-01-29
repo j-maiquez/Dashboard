@@ -6,7 +6,7 @@ import os
 
 
 st.title("Water Quality Dashboard")
-st.header("Intership Ready Software Development")
+st.header("Internship Ready Software Development")
 st.subheader("Prof. Gregory Reis")
 st.divider()
 
